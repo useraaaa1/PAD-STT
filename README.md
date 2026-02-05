@@ -2,4 +2,4 @@
 
 
 
-![image](https://github.com/useraaaa1/PAD-STT/kernal size3.png)
+![image](kernal size3.png)
